@@ -1,0 +1,9 @@
+[
+  {
+    "_id": "123",
+    "symbol": "AAPL",
+    "quantity": 100,
+    "type": "enum {buy, sell}",
+    "userId": "123"
+  }
+]

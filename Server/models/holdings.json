@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "123",
+    "symbol": "AAPL",
+    "units": 100,
+    "userId": "user1"
+  },
+
+  {
+    "_id": "234",
+    "symbol": "AAPL",
+    "units": 100,
+    "userId": "user1"
+  },
+
+  {
+    "_id": "345",
+    "symbol": "AAPL",
+    "units": 100,
+    "userId": "user2"
+  }
+]
